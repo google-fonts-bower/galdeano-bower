@@ -1,0 +1,17 @@
+{
+    "name": "galdeano-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Dario Manuel Muhafara"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/galdeano-bower.git"
+    },
+    "description": "Galdeano font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
